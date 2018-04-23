@@ -24,4 +24,5 @@ Build using instructions on [Nativfier](https://github.com/jiahaog/nativefier "N
 - This is not affiliated or licensed offically by Google. 
 
 Nativfier: https://github.com/jiahaog/nativefier
+
 Electron: https://github.com/electron/electron
